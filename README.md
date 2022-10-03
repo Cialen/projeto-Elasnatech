@@ -1,2 +1,2 @@
 # projeto-Elasnatech
-meu primeiro carpádio, simples.
+meu primeiro cardápio, simples.
