@@ -1,0 +1,114 @@
+body{
+    margin: 2px;
+    border: 10px solid rgb(226, 178, 186) ;
+    border-style: double;
+    background-color: rgb(218, 86, 130);
+    color: rgb(99, 7, 38);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: rgb(217, 106, 185);
+    background-image: url("https://media.istockphoto.com/vectors/coffee-seamless-pattern-vector-background-with-sweet-food-coffee-cups-vector-id1256265733?k=20&m=1256265733&s=170667a&w=0&h=Uouyadvx1ENVxhRsykNTsKBgCpy5DV3LPtKxDeEk6Nw=")
+    
+    
+
+
+}
+
+h1{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+#inicio{
+    background-color: rgb(217, 176, 183);
+    color: rgb(122, 33, 79); 
+    font-style: italic; 
+    
+}
+
+#img1{
+    border-radius: 30%;
+
+}
+
+#parte2{
+    background-color: pink;
+    border: 5px solid rgb(104, 61, 68);
+    color: rgb(197, 34, 135);
+    width: 50%;
+
+}
+
+#parte3{
+    background-color: pink;
+    border: 5px solid rgb(104, 61, 68);
+    color: rgb(197, 34, 135);
+    width: 50%;
+}
+
+
+#img3{
+    width: 10cm;
+    margin: 3%;
+
+}
+
+#img4{
+    width: 8cm;
+    margin: 3%;
+    
+    
+}
+
+#img5{
+    width: 10cm;
+    min-height: 50ex
+    
+}
+#parte4{
+    background-color: pink;
+    border: 7px solid rgb(104, 61, 68);
+    color: rgb(197, 34, 135);
+    width: 100%;
+    
+    
+}
+
+#img6{
+    width:  30%;
+}
+
+#img7{
+    width: 30%;
+}
+
+#img8{
+    width: 30%;
+}
+
+
+#parte5{
+    background-color: pink;
+    border: 7px solid rgb(104, 61, 68);
+    color: rgb(197, 34, 135);
+    width: 100%;
+}
+
+#img9{
+    width: 30%;
+    margin: 3%;
+    
+}
+
+#img10{
+    width: 30%;
+    margin: 3%;
+}
+#parte6{
+    background-color: pink;
+    border: 5px solid rgb(104, 61, 68);
+    color: rgb(197, 34, 135);
+    width: 50%;
+}
